@@ -34,7 +34,7 @@ A plugin to notify the user that the comment posted was considered as SPAM if so
 
 *   Install **Akismet Notifier** automatically through the WordPress Dashboard or by uploading the ZIP file in the _plugins_ directory.
 *   Then, after the package is uploaded and extracted, click&nbsp;_Activate Plugin_.
-*	(Akismet)[https://wordpress.org/plugins/akismet/] needs to be installed.
+*   [Akismet](https://wordpress.org/plugins/akismet/) needs to be installed.
 
 In order to check the proper operation, you can post a new comment with inappropriate words and a great number of external links. It's recommended to perform this test without being logged with any user, in this way Akismet will recognize it as SPAM and **Akismet Notifier** will display a notification message.
 
