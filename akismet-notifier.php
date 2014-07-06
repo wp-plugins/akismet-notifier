@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Akismet Notifier
- * @version 1.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: Akismet Notifier
-Plugin URI: undefined
-Description: Simple akismet notifier. When Akismet find SPAM a frontend notification will be shown.
+Plugin URI: https://wordpress.org/plugins/akismet-notifier/
+Description: Simple akismet notifier. When Akismet finds SPAM a frontend notification will be shown.
 Author: codection
-Version: 1.0
+Version: 1.0.1
 Author URI: https://codection.com
 */
 

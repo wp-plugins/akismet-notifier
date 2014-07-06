@@ -44,6 +44,9 @@ In order to check the proper operation, you can post a new comment with inapprop
 
 == Changelog ==
 
+= 1.0.1 =
+*   Banner image and plugin URL updated
+
 = 1.0.0 =
 *   First release
 
