@@ -3,7 +3,7 @@ Contributors: hornero, carazo
 Donate link: http://codection.com
 Tags: akismet, notifier, notificator, alert, spam, detector, show, message, wordpress, wmpl, woocommerce, notification
 Requires at least: 3.4
-Tested up to: 3.9.1
+Tested up to: 4.0.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
