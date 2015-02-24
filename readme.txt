@@ -3,8 +3,8 @@ Contributors: hornero, carazo
 Donate link: http://codection.com
 Tags: akismet, notifier, notificator, alert, spam, detector, show, message, wordpress, wmpl, woocommerce, notification
 Requires at least: 3.4
-Tested up to: 4.0.0
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,9 @@ In order to check the proper operation, you can post a new comment with inapprop
 1. SPAM detected message
 
 == Changelog ==
+
+= 1.0.2 =
+*   Tested on 4.1.1
 
 = 1.0.1 =
 *   Banner image and plugin URL updated
